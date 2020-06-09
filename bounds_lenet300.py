@@ -1,6 +1,6 @@
 '''
 Author: Soumya Sara John
-Requires tensorfloe == 1.15
+Requires tensorflow == 1.15
 '''
 
 from __future__ import print_function
