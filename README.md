@@ -1,5 +1,3 @@
-# retrain
-
 This repository contains the codes that were used to get the simulation results present in the journal paper titled: "**Retraining a Pruned Network: A Unified Theory of Time Complexity**" which was published in Springer journal "SN Computer Science" on 18 June 2020.
 
 **Authors: Soumya Sara John, Dr. Deepak Mishra, Dr. Sheeba Rani J.**
